@@ -1,4 +1,17 @@
+# Model checkpoint files (too large for Git)
+*.pt
+*.pth
+*.safetensors
+
+# Python cache
 __pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+
+# macOS system files
+.DS_Store__pycache__/
 *.py[cod]
 *$py.class
 *.so
